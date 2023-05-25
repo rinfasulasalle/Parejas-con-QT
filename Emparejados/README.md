@@ -1,5 +1,4 @@
-# Español
-## Emparejados
+# Emparejados
 Juego de memoria clásico, desarrollado con C++ y el framework Qt.
 
 Se muestran 12 tarjetas, además de un contador que comienza en 1:00. El usuario debe hacer click en dos tarjetas e intentar emparejar las imágenes que muestran. Si las imágenes coinciden, el puntaje se incrementa. Si no coinciden, el puntaje se decrementa.
